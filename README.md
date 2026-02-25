@@ -2,15 +2,6 @@
 
 This project is a 3-tier web application built using Python for the backend, with PostgreSQL as the database. The application consists of a presentation layer, a business logic layer, and a data access layer.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [1. Setting Up Python Virtual Environment](#1-setting-up-python-virtual-environment)
-  - [2. Installing PostgreSQL](#2-installing-postgresql)
-  - [3. Setting Up PostgreSQL Database](#3-setting-up-postgresql-database)
-- [Running the Application](#running-the-application)
-- [License](#license)
 
 ## Prerequisites
 
@@ -143,7 +134,15 @@ Once the environment and database are set up, you can run the application with t
 
    The application will start, and you can access it via the specified host and port in your configuration.
 
-## License
+## Author
+Hanzala Israr
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<img width="1857" height="995" alt="image" src="https://github.com/user-attachments/assets/99c1bca6-ac19-4511-9192-3c619bcfc265" />
+
+
+
+<img width="1155" height="532" alt="image" src="https://github.com/user-attachments/assets/e1178051-07f0-46b5-bb4b-00cd3b357438" />
+
+
 
